@@ -1,0 +1,31 @@
+table.custom_class {
+    width: 100%;
+    border:solid 5px #006CFF;
+    margin:0px;
+    padding:0px;
+    border-spacing:0px;
+    border-collapse:collapse;
+    line-height:22px;
+    font-size:13px;
+    font-family:Arial, Verdana, Tahoma, Helvetica, sans-serif;
+    font-weight:400;
+    text-decoration:none;
+    color:#0018ff; 
+    white-space:pre-wrap;
+}
+table.custom_class th {
+padding: 20px;
+background-color:#98dcff;
+border:solid 2px #006CFF;
+}
+table.custom_class td {
+padding: 20px;
+border:solid 1px #006CFF;
+}
+table.custom_class tr {
+    margin:0;
+    padding:4px;
+}
+body{
+    background-color: #EAF6F6;
+}
